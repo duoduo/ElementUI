@@ -1,6 +1,6 @@
 ## About
 
-365UI is a collection of HTML UI elements from 365psd.com (and most likelyfrom other sources in the future). 
+ElementUI is a collection of web UI elements from 365psd.com (and most likely from other sources in the future). 
 
 ### Why
 
